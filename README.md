@@ -1,16 +1,16 @@
-### Hi there 👋
+### 爱奇艺招聘安全工程师
 
-<!--
-**lijiejie/lijiejie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+爱奇艺正在招聘【高级/资深安全工程师】，欢迎投递  lijiejie[at]qiyi.com
 
-Here are some ideas to get you started:
+工作职责：
+1. 参与SDL实施：安全评估、安全加固、安全设计、渗透测试
+2. 主导应急响应工作：获取并分析情报、高效响应处置。持续完善内部自动化应急响应流程
+3. 开发迭代、优化内部扫描服务： 白盒代码扫描服务、云扫描服务（攻防经验丰富的同学，适当降低开发要求）
+4. 主导爱奇艺内部的红蓝演练工作
+5. 负责办公网安全持续建设
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+基本要求：
+1. 熟悉常见安全漏洞，渗透测试经验丰富。大型CTF或者各SRC TOP白帽子优先。熟悉Java Web安全、移动安全优先
+2. 熟悉常见业务威胁场景。有SDL流程实施经验优先
+3. 至少熟练掌握一门编程语言：Python/Go/Java/C++。 能够开发一定规模的Web应用、可开发简单POC/EXP
+
